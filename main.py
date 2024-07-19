@@ -92,7 +92,7 @@ def main():
     # Initialize database connection
     db = init_database(
         user="majna",
-        password="10801819",
+        password="12345678",
         host="localhost",
         port="5432",
         database="majna"
