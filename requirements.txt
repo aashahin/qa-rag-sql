@@ -1,0 +1,7 @@
+python-dotenv
+langchain-community
+langchain-core
+SQLAlchemy
+psycopg2-binary
+langchain-nvidia-ai-endpoints
+langchain
